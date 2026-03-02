@@ -1,5 +1,5 @@
-# Plano Estratégico de Mentoria e Inclusão Digital
-## Continuidade e Evolução do Projeto SEJA-TEC (iniciado em BH)
+# Plano para Mentoria e Inclusão Digital:
+## Proposta para Continuidade e Evolução do Projeto SEJA-TEC iniciado em BH
 
 ## 1. Visão estratégica: tecnologia como direito e legado institucional
 
@@ -125,9 +125,12 @@ O SEJA-TEC não é apenas uma ação de capacitação digital; é uma estratégi
 2. Definir metas trimestrais de KPIs e governança mínima do programa.
 3. Iniciar ciclo de comunicação interna para adesão de mentores e parceiros.
 
+### Questionamentos para validação interna e fortalecimento do patrocínio
+
+1. Quais evidências do caso BH já podemos apresentar (número de alunos, taxa de conclusão e 1 depoimento curto)?
+2. Qual meta inicial de horas de mentoria voluntária será adotada para o piloto?
+3. Quem será o patrocinador executivo nominal do projeto e qual área será a dona da governança?
+
 ---
 
-**Mensagem final para apresentação:**
-
-> Investir no SEJA-TEC é transformar conhecimento técnico em cidadania digital, empregabilidade e legado institucional.
 

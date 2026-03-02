@@ -1,0 +1,9 @@
+Pense que sou um ex-aluno de um professor voluntário na disciplina de SGBDE (Sistemas Gerenciadores de Bancos de Dados Especiais) no departamento de geociências na UnB. Não sou da área de geologia, tão pouco da área de geografia ou cartografia. Minha área é TI, mais especificamente banco de dados e iniciando em devops (engenharia de dados).
+
+O professor parou de dar essas aulas e quero fazer uma proposta para seguir como "monitor" dessa disciplina dele, que é focada para alunos que NÃO é da área de tecnologia, e precisa conhecer desde do básico, passando por aprender do zero SQL e conceitos de bancos de dados com a complexidade da visão espacial e extensão postgis do postgreSQL. 
+
+Como sou da área de TI, gostaria de colaborar com a divulgação desse conhecimento pra comunidade geo, em forma de monitoria e iniciar minha carreira como professor.
+
+Tive uma ideia louca aqui e queria propor um hands-on de 2horas, focado do público que conhece pouco SQL e banco de dados (perfil de negócios curioso que trabalha com planilhas e analytics), em um evento que teremos na semana que vem, on line, aqui na empresa onde trabalho. Teremos algumas palestras no período da tarde de segunda-feira e outro ciclo de palestras no período da manhã de quarta-feira. Gostaria de propor uma agenda em formato oficina "hands-on", com 10 vagas, para criação de um BD de dados espacial, consumo dessas informações por SQL no DBeaver e/ou exploração visual usando o SIG QGIS, com bônus para consumo com python explorando notebooks
+
+celebrar a data comemorativa do "GIS DAY", que anualmente é celebrado dia 19 de novembro.

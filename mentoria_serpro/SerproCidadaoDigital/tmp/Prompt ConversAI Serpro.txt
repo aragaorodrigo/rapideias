@@ -1,0 +1,88 @@
+Prompt ConversAI Serpro:
+
+Sou um analista do serpro e trabalho na área SUPAN/ANDAG/ANGEO. Quero iniciar um trabalho para usar o portal https://cidadaodigital.serpro.gov.br/, que é de responsabilidade da área de educação, cuja a Descrição de Atividades e Competências está abaixo:
+
+DEPARTAMENTO DE DESTREZA DIGITAL E RESPONSABILIDADE SOCIAL - BELÉM
+a) Conduzir a gestão das ações relacionadas a destreza digital, diversidade, equidade e inclusão
+b) Conduzir os acordos de cooperação técnica específicos relativos às temáticas de atuação sob sua
+responsabilidade
+DIVISÃO DE DESTREZA DIGITAL, DIVERSIDADE, EQUIDADE E INCLUSÃO - RIO DE
+JANEIRO
+a) Gerir a identificação e atualização das necessidades de capacitação para destreza digital em
+comunidades, grupos vulneráveis e minorias
+b) Gerir as ações relacionadas a sensibilização e promoção da Diversidade Equidade e Inclusão
+c) Gerir o mapeamento das necessidades de capacitação para desenvolver a destreza digital
+d) Gerir parcerias com entidades que atuam com inclusão digital, para desenvolver a destreza digital
+e) Mobilizar as unidades do Serpro para ações articuladas para promoção da destreza digital
+f) Mobilizar recursos para a realização de ações de conscientização e aculturamento para a cidadania
+digital
+
+
+O objetivo principal dessa iniciativa é aproveitar a estrutura atual disponível (cursos, laboratórios e conhecimento individual) para compartilhar o conhecimento em tecnologia e evoluir o projeto SEJA-TEC para a cidade de Brasília (ver referência em: https://www.serpro.gov.br/menu/noticias/noticias-2025/seja-tec). Esta inciativa também está aderente à agenda de responsabilidade social publicada recentemente no nosso noticiário corporativo: https://www.serpro.gov.br/menu/noticias/noticias-2026/serpro-institucionaliza-agenda-de-responsabilidade-social.
+
+Minha ideia inicial é customizar trilhas baseadas nos cursos já existentes, formatar um plano de ação com ofertas de turmas presenciais para ter o contato corpo a corpo com os alunos e fazer uma mentoria e tutoria mais próxima, podendo ter encontros semanais de 2 a 3 horas nesse início. O público pode ser o mesmo já aplicado no SEJA-TEC referenciado acima. Em um segundo momento, vou criar novos cursos na medida que o projeto for evoluindo.
+
+Farei um plano de ação para apresentar aos stakeholders principais, organizando melhor essa ideia de capacitar pessoas em conhecimento básico, mas especializado em tecnologia, para que tenham um diferencial no mercado de trabalho, conseguindo empregos melhores, mais rapidamente e quem sabe até empreender.
+
+Quero estar alinhado ao planejamento estratégico do serpro em: https://intra.serpro.gov.br/estrategia-institucional/ei2025/estrategico
+
+e também com o plano ESG da empresa, em específico no eixo Social: https://intra.serpro.gov.br/sustentabilidade/planos/social
+
+Preciso da sua ajuda na organização dessas ideias e que faça as ligações e conexões adequadas nas referências citadas acima.
+
+Fico no aguardo das suas análises inciais!
+
+----
+
+
+# Análise Inicial e Organização das Ideias
+
+## 1. Entendimento do Projeto
+
+O objetivo principal é aproveitar a estrutura atual do Serpro, incluindo cursos, laboratórios e conhecimento individual, para compartilhar tecnologia e evoluir o projeto SEJA-TEC para a cidade de Brasília. Além disso, o projeto está alinhado com a agenda de responsabilidade social recentemente publicada pelo Serpro.
+
+## 2. Conexões com a Estratégia Institucional e ESG
+
+- **Planejamento Estratégico 2025**: O projeto contribui para a evolução do SEJA-TEC, reforçando a posição do Serpro em educação tecnológica e responsabilidade social.
+- **Plano ESG - Eixo Social**: O projeto promove inclusão digital, capacitação e empoderamento de comunidades vulneráveis, alinhando-se com os objetivos de responsabilidade social e inclusão.
+
+## 3. Estruturação do Plano de Ação
+
+### 3.1. Introdução
+- Descrever o projeto, seu objetivo e relevância.
+
+### 3.2. Justificativa
+- Conectar o projeto com os objetivos do Serpro, estratégia 2025 e ESG.
+
+### 3.3. Metodologia
+- **Customização de Trilhas**: Utilizar cursos existentes e adaptá-los para atender às necessidades específicas do público em Brasília.
+- **Ofertas Presenciais**: Promover turmas presenciais para garantir um contato mais próximo com os alunos.
+- **Mentoria e Tutoria**: Implementar um programa de mentoria para oferecer suporte continuado aos alunos.
+- **Criação de Novos Cursos**: Em um segundo momento, desenvolver cursos novos conforme o projeto evolui.
+
+### 3.4. Plano de Implementação
+- **Cronograma**: Definir as datas e etapas do projeto.
+- **Responsabilidades**: Identificar quem fará o quê.
+- **Recursos Necessários**: Listar os recursos humanos, financeiros e materiais.
+
+### 3.5. KPIs (Indicadores de Desempenho)
+- Número de participantes nos cursos.
+- Taxa de conclusão dos cursos.
+- Número de empregos obtidos após a capacitação.
+- Número de parceiros estabelecidos.
+- Feedback dos participantes e stakeholders.
+
+### 3.6. Conclusão
+- Resumir a importância do projeto e agradecer aos stakeholders.
+
+## 4. Identificação de Stakeholders Principais
+- Área de educação do Serpro.
+- Representantes das unidades em Brasília.
+- Parceiros de inclusão digital.
+- Parceiros externos (ONGs, empresas, governo).
+
+## 5. Alinhamento com a Diversidade, Equidade e Inclusão
+- O projeto promove inclusão digital, capacitação e empoderamento de comunidades vulneráveis, reforçando a missão do Serpro em responsabilidade social.
+
+## 6. Conclusão
+Com essas ideias organizadas, o usuário pode apresentar um plano de ação robusto e alinhado com as diretrizes do Serpro, contribuindo para o desenvolvimento tecnológico e social da cidade de Brasília.

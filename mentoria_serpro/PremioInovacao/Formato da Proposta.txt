@@ -1,0 +1,68 @@
+Formato da Proposta – 3º Prêmio Serpro de Inovação
+
+
+A proposta será avaliada pelos critérios adequação ao tema, aplicabilidade ao Serpro e atendimento ao formato, conforme regulamento e este documento. Adote o modelo na página a seguir. 
+
+O texto deve descrever:
+– Objetivo geral e específicos (estes últimos, se houver);
+– Justificativa que explique por que razão a ideia é considerada inovadora e aplicável ao Serpro;
+– Resultados possíveis ou impactos ou benefícios que podem ser gerados;
+– Palavras-chave.
+
+A Proposta deve ser apresentada no seguinte formato:
+    • arquivo .odt, .doc ou .docx
+    • 500 palavras no máximo (total dos textos do Objetivo, Justificativa; Resultados e Palavras-chave)
+    • fonte spranq eco sans 12 pontos, entrelinhas simples;
+    • margens esquerda 3 cm, superior 3 cm, direita 2 cm, inferior 2 cm;
+    • até 10 palavras-chave;
+    • padrão ABNT;
+    • declaração ao final da proposta “Declaro que as ideias e soluções apresentadas nessa Proposta não se encontram implantadas ou em processo de implantação no SERPRO.” ;
+    • nome do arquivo para submissão: Proposta – Prêmio Serpro de Inovação
+
+Dicas:
+    • Evite jargões e termos técnicos, porém se indispensável explique o significado;
+    • Faça a identificação por extenso ao utilizar siglas;
+    • Dê preferência a terceira pessoa no singular e verbo na voz ativa;
+    • Não faça identificação do autor ou coautor.
+
+Observações:
+    • O exemplo a seguir adota a maior parte dessas recomendações.
+
+Proposta – Prêmio Serpro de Inovação
+
+Assinale o tema de sua proposta.
+(    ) Tema 1 – NOVAS TECNOLOGIAS E SEUS IMPACTOS
+(    ) Tema 2 – TRANSFORMAÇÃO DIGITAL PARA CLIENTES E CIDADÃOS
+( x ) Tema 3 – SOLUÇÕES ESTRATÉGICAS, DE SUSTENTABILIDADE E DE GESTÃO NO SERPRO
+
+Indique o assunto relacionado ao Tema, conforme consta no Regulamento:
+
+Assunto: 2. Gestão Estratégica da Informação e do Conhecimento 
+
+Descreva sua proposta (até 500 palavras).
+Título
+(até 20 palavras)
+Coorientação Organizacional em pesquisa para inovação.
+
+
+Objetivo geral e, se houver, específicos
+(até 60 palavras)
+Apoiar atividades relacionadas à pesquisa, no âmbito da empresa, com métodos, procedimentos e critérios de qualidade em pesquisa científica e tecnológica visando a agregação de valor aos processos, produtos e serviços oferecidos aos clientes. 
+
+
+Justificativa que explique por que razão a ideia é considerada inovadora e aplicável ao Serpro. 
+(até 210 palavras)
+A Coorientação Organizacional é uma iniciativa inovadora pela atuação conjunta com universidades ao apoiar atividades de pesquisa acadêmica, no âmbito da empresa, com métodos científicos, procedimentos e critérios de qualidade. A iniciativa busca agregação de valor às soluções tecnológicas oferecidas aos clientes, órgãos da administração pública, que atendem ao cidadão brasileiro. Oferecida por meio da Rede Acadêmica do Serpro – RAS, formada por mestres e doutores, atua no apoio para aplicação de pesquisas que ampliam a criação de conhecimento. Os resultados de pesquisas podem aumentar a capacidade do Serpro na geração de novos conhecimentos. Por exemplo, especialistas e gerentes podem utilizar conhecimento científico para definição de processos de trabalho, elaboração de projetos, planos e programas, criação de novos produtos e serviços, dentre outras possibilidades. Além disso, responsáveis estratégicos podem estabelecer políticas, diretrizes, estratégias, metas e objetivos. Desse modo, novo conhecimento pode contribuir como fonte adicional para a tomada de decisão em busca da efetividade da missão institucional do Serpro em prol da inovação na gestão pública. 
+
+
+Resultados possíveis ou impactos ou benefícios que podem ser gerados para o Serpro. 
+(até 200 palavras)
+Os resultados da Coorientação Organizacional se referem à avaliação do desempenho dos alunos de cursos fechados de pós-graduação. Significa analisar notas e conceitos de trabalhos elaborados pelos alunos. Busca-se verificar se as maiores notas são decorrentes de Coorientação Organizacional. Também se verificará se resultados melhores estão associados a modalidade (presencial ou ensino a distância) de curso. 
+
+
+Palavras-chave
+(até 10 palavras)
+Coorientação organizacional; pesquisa acadêmica; inovação; tomada de decisão; criação de conhecimento.
+
+
+Declaro que as ideias e soluções apresentadas nessa proposta não estão implantadas ou em processo de implantação no SERPRO.

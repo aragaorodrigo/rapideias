@@ -13,17 +13,17 @@
 ## Descreva sua proposta (até 500 palavras)
 
 ### Título (até 20 palavras)
-SEJA-TEC Rede Cidadã: mentoria escalável para inclusão e letramento digital em serviços públicos.
+SEJA-TEC em Rede: modelo institucional de inclusão e letramento digital para cidadãos.
 
 ### Objetivo geral e, se houver, os específicos (até 60 palavras)
-Instituir um modelo nacional de mentoria em letramento digital, baseado no portal Cidadão Digital, para ampliar o acesso de públicos vulneráveis a serviços públicos digitais e oportunidades de trabalho. Como objetivos específicos, estruturar trilhas por nível de proficiência, formar mentores voluntários e padronizar indicadores de impacto por ciclo.
+Propor um modelo institucional replicável de mentoria em letramento digital, apoiado no portal Cidadão Digital, para ampliar o acesso de públicos vulneráveis a serviços públicos digitais. Como objetivos específicos, estruturar trilhas por proficiência, organizar rede de mentores voluntários e definir governança mínima para expansão entre regionais e parceiros.
 
 ### Justificativa (até 210 palavras)
-A transformação digital só gera valor público quando o cidadão consegue usar, com autonomia e segurança, os serviços oferecidos pelo Estado. A proposta é inovadora porque transforma ações pontuais de capacitação em um modelo institucional replicável, com método pedagógico, governança de parceiros e métricas comparáveis entre regionais.
+A transformação digital só gera valor público quando o cidadão consegue usar, com autonomia e segurança, os serviços oferecidos pelo Estado. A proposta é inovadora porque converte experiências locais de capacitação em um modelo institucional replicável, com método pedagógico, governança de parceiros e diretrizes de monitoramento comparáveis entre regionais.
 
-A aplicabilidade ao Serpro é direta: utiliza infraestrutura já existente (laboratórios e plataforma Cidadão Digital), mobiliza conhecimento técnico interno por voluntariado estruturado e fortalece o posicionamento institucional em inclusão digital, experiência do usuário e responsabilidade social. O desenho prevê implantação em ciclos curtos, com baixa necessidade de investimento adicional e alto potencial de escala por meio de parcerias com EJA, ONGs e redes municipais.
+A aplicabilidade ao Serpro é direta: utiliza infraestrutura já existente, como laboratórios e a plataforma Cidadão Digital, mobiliza conhecimento técnico interno por voluntariado estruturado e fortalece o posicionamento institucional em inclusão digital, experiência do usuário e responsabilidade social. Também se alinha à jornada Ser ESG e aos Planos de Responsabilidade Social, podendo atuar como modelo de execução de ações com impacto social mensurável.
 
-O diferencial técnico está na combinação de trilhas adaptáveis, tutoria orientada a tarefas reais (acesso a serviços públicos, currículo digital, uso de e-mail e segurança básica) e acompanhamento por indicadores de conclusão, evolução de proficiência e aplicação prática no cotidiano. Assim, a proposta responde ao tema de Inclusão e Letramento Digital com viabilidade operacional e potencial de impacto mensurável.
+O diferencial técnico está na combinação de trilhas adaptáveis, tutoria orientada a tarefas reais, como acesso a serviços públicos, currículo digital, uso de e-mail e segurança básica, e um desenho operacional de fácil expansão por meio de EJA, ONGs e redes municipais. Assim, a proposta responde ao tema de Inclusão e Letramento Digital com viabilidade operacional, aderência estratégica e potencial de impacto mensurável.
 
 ### Resultados possíveis, impactos ou benefícios para o Serpro (até 200 palavras)
 A proposta pode gerar benefícios sociais e institucionais em três frentes.
@@ -34,7 +34,7 @@ Na frente de negócio e reputação, reforça a imagem do Serpro como agente de 
 
 Na frente organizacional, desenvolve competências de comunicação, liderança e empatia em mentores voluntários, fortalece cultura de compartilhamento de conhecimento e estrutura um banco de práticas replicáveis entre regionais.
 
-Como metas iniciais de referência, propõe-se executar ciclos trimestrais com turmas de 10 a 15 participantes, buscar taxa de conclusão mínima de 80% e aferir evolução de proficiência digital por avaliação de entrada e saída. O monitoramento contínuo permitirá ajustes de conteúdo, método e parcerias, elevando a efetividade do programa ao longo do tempo.
+Na etapa de proposta, recomenda-se vincular o monitoramento a indicadores de referência, como quantidade de turmas, relação entre participantes e concluintes, horas de mentoria voluntária, satisfação dos alunos e desenvolvimento dos mentores. Esse conjunto já demonstra viabilidade de acompanhamento sem antecipar o detalhamento metodológico do trabalho completo.
 
 ### Palavras-chave (até 10)
 Inclusão digital; letramento digital; serviços públicos digitais; cidadania digital; mentoria; empregabilidade; acessibilidade; transformação digital; voluntariado técnico; impacto social.

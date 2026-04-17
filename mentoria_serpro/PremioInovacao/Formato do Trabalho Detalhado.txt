@@ -1,0 +1,150 @@
+
+
+
+
+Formato do Trabalho
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FORMATO DO TRABALHO
+
+Geral
+
+Qualidade
+    • A qualidade da apresentação gráfica e a organização serão observadas na seleção dos Trabalhos.
+Configuração das páginas
+    • Tamanho do papel: A4.
+    • Margens:
+        ? Capa: todas as margens 2 cm.
+        ? Restante do texto: margens superior e esquerda 3 cm; inferior e direita 2 cm.
+Configuração dos Textos
+    • Textos: em português.
+    • Fonte: Spranq Eco Sans 11 pontos, exceto onde indicado em contrário.
+    • Espaçamento entre caracteres e entre palavras: simples.
+    • Alinhamento: ajustado (“justificado”), exceto onde indicado em contrário.
+    • Entrelinhamento: 1,5, exceto onde indicado em contrário.
+    • Parágrafo: espaçamento antes e depois 0 cm, exceto onde indicado em contrário.
+Páginas
+    • Numeração: no rodapé (e não no cabeçalho), contadas a partir da folha de rosto. Número mínimo 12 (doze) páginas e número máximo 30 (trinta) páginas, excluída a capa.
+Quantidade
+    • Um original (com identificação dos autores) e um sem identificação.
+Envio
+    • Os trabalhos em formato digital devem ser enviados com extensão PDF (Portable Document Format).
+Estrutura do Original – composição:
+Capa com a logomarca do Prêmio
+    • Título do Trabalho: fonte corpo 20, regular, centralizado, entrelinhamento simples, espaçamento 9 cm acima do parágrafo.
+    • Autor(es): nome(s) completo(s) e sem abreviatura(s). Fonte corpo 14, regular, centralizado, entrelinhamento simples, cada autor iniciando em uma nova linha, espaçamento 3 cm acima do parágrafo.
+    • Tema: expressão “Tema:” seguida do tema ao qual o Trabalho se vincula. Fonte corpo 14, regular, centralizado, entrelinhamento simples.
+    • Total de páginas: expressão “Nº de páginas:” seguida do número total de páginas, excluída a página da capa. Fonte corpo 10, regular, centralizado, entrelinhamento simples, espaçamento 6 cm acima do parágrafo.
+Folha de rosto
+    • Título do Trabalho: sem espaçamento do parágrafo.
+    • Tema: espaçamento 0,80 cm acima do parágrafo.
+    • Autor(es): espaçamento 0,80 cm acima do parágrafo.
+    • Currículo(s): minicurrículo(s) do(s) autor(es), com um máximo de dez linhas para cada. Espaçamento 0,80 cm acima do parágrafo.
+Resumo
+    • Resumo do trabalho.
+    • Lista de palavras-chave: devem ser as mesmas presentes na Proposta previamente entregue e aprovada.
+      
+Listas {opcional} 
+    • Lista de ilustrações, abreviaturas e siglas, símbolos etc {opcional}. Espaçamento 0,42 cm acima do parágrafo.
+Sumário
+    • Lista de títulos, ou mesmo subtítulos, das partes do Trabalho seguidos dos números das páginas onde se iniciam cada um deles, conforme modelo ao final apresentado.
+
+Desenvolvimento do Trabalho
+    • Texto do Trabalho propriamente dito. Deve haver uma introdução, desenvolvimento em si e as conclusões a que se chega. Se no corpo do texto houver citações, estas deverão atender aos requisitos da Norma ABNT 10520 (Apresentação de citações em documentos).
+Referências
+    • Referências que devem atender aos requisitos da Norma ABNT 6023  (Informação e documentação – Referências – Elaboração).
+Anexos {opcional}
+    • Os Anexos podem conter ilustrações, tabelas, equações, gráficos etc que deverão estar devidamente identificados e referenciados no texto. 
+
+Estrutura da versão sem identificação – composição
+Capa com a logamarca do Prêmio
+    • Título do Trabalho: igual ao original.
+    • Tema: igual ao original.
+    • Total de páginas: igual ao original.
+Folha de rosto
+    • Título do Trabalho: igual ao original.
+    • Tema: igual ao original.
+Resumo
+    • Resumo do trabalho.
+    • Lista de palavras-chave: igual ao da proposta.
+Listas {opcional} 
+    • Lista de ilustrações, abreviaturas e siglas, símbolos etc {opcional}: igual ao original.
+Sumário
+    • igual ao original.
+
+Desenvolvimento do Trabalho
+    • igual ao original.
+Referências
+    • igual ao original.
+Anexos {opcional}
+    • igual ao original.
+------------------------------------------------------------------------------------------------------------------
+Atenção 
+1. Conforme item 4.5.2 do Regulamento, o trabalho será desclassificado se apresentar qualquer tipo de identificação do autor ou do coautor no corpo do texto, no nome do arquivo, em anexos ou nas referências ou estiver em desacordo com este formato de trabalho e o próprio regulamento.
+2. O trabalho será desclassificado se apresentar assunto diferente do descrito na proposta, conforme Regulamento.
+3. No portal do Prêmio Serpro de Inovação haverá dois campos para a postagem do arquivo do trabalho. Um campo é para o envio do arquivo sem identificação e outro para a postagem da via original com identificação.
+3.1 A postagem do Trabalho com identificação (original) no campo inapropriado implicará a desclassificação automática do candidato.
+4. Nas próximas páginas, apresentamos um Modelo de Trabalho a ser adotado, já com as configurações solicitadas. 
+
+
+
+{Título do trabalho}
+{Autor, apenas no original} 
+Tema: {Tema}
+Nº de páginas: {número de páginas contadas a partir da folha de rosto}
+Folha de Rosto
+Título do Trabalho: {título do Trabalho}
+
+Tema: {tema idêntico ao da Proposta}
+
+Autores: {autores, apenas no original do Trabalho}
+
+Currículos: {currículo dos autores, apenas no Trabalho original}
+
+Resumo
+
+
+Palavras-chaves: {palavras-chaves}
+Lista de ilustrações {opcional}
+
+Lista de abreviaturas e siglas {opcional}
+
+Lista de símbolos {opcional}
+
+
+Sumário
+Folha de Rosto	1
+Resumo	2
+Lista de ilustrações {opcional}	3
+Introdução	5
+Desenvolvimento	5
+Conclusões	5
+Referências	6
+Anexos {opcional}	7
+
+Introdução
+
+Desenvolvimento
+
+Conclusões
+
+Referências
+
+Anexos {opcional}
+

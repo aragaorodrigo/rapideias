@@ -13,17 +13,17 @@
 ## Descreva sua proposta (até 500 palavras)
 
 ### Título (até 20 palavras)
-SEJA-TEC em Rede: modelo institucional de inclusão e letramento digital para cidadãos.
+SEJA-TEC em Rede: trilhas customizadas de mentoria para inclusão e letramento digital.
 
 ### Objetivo geral e, se houver, os específicos (até 60 palavras)
-Propor um modelo institucional replicável de mentoria em letramento digital, apoiado no portal Cidadão Digital, para ampliar o acesso de públicos vulneráveis a serviços públicos digitais. Como objetivos específicos, estruturar trilhas por proficiência, organizar rede de mentores voluntários e definir governança mínima para expansão entre regionais e parceiros.
+Propor um modelo institucional replicável de mentoria em letramento digital, apoiado no portal Cidadão Digital, para ampliar o acesso de públicos vulneráveis a serviços públicos digitais. Como objetivos específicos, criar trilhas customizáveis de formação por perfil de público, estruturar mentoria personalizada com acompanhamento semanal e definir governança para expansão entre regionais.
 
 ### Justificativa (até 210 palavras)
-A transformação digital só gera valor público quando o cidadão consegue usar, com autonomia e segurança, os serviços oferecidos pelo Estado. A proposta é inovadora porque converte experiências locais de capacitação em um modelo institucional replicável, com método pedagógico, governança de parceiros e diretrizes de monitoramento comparáveis entre regionais.
+A transformação digital só gera valor público quando o cidadão consegue usar, com autonomia e segurança, os serviços oferecidos pelo Estado. A proposta é inovadora porque formaliza e estrutura, em modelo institucional replicável, iniciativas pontuais de capacitação já realizadas em algumas regionais, criando trilhas de formação customizáveis por perfil de público e mentoria personalizada com encontros semanais — diferenciais ainda não implantados de forma padronizada no Serpro.
 
-A aplicabilidade ao Serpro é direta: utiliza infraestrutura já existente, como laboratórios e a plataforma Cidadão Digital, mobiliza conhecimento técnico interno por voluntariado estruturado e fortalece o posicionamento institucional em inclusão digital, experiência do usuário e responsabilidade social. Também se alinha à jornada Ser ESG e aos Planos de Responsabilidade Social, podendo atuar como modelo de execução de ações com impacto social mensurável.
+A aplicabilidade é direta: utiliza ativos já disponíveis, como laboratórios internos e a plataforma Cidadão Digital, mobiliza voluntariado técnico existente e não demanda novos investimentos concretos para execução. Alinha-se à jornada Ser ESG e aos Planos de Responsabilidade Social, contribuindo diretamente com o Key Result Expected (KRE) do Planejamento Estratégico de realizar 33 ações que promovam a inclusão digital.
 
-O diferencial técnico está na combinação de trilhas adaptáveis, tutoria orientada a tarefas reais, como acesso a serviços públicos, currículo digital, uso de e-mail e segurança básica, e um desenho operacional de fácil expansão por meio de EJA, ONGs e redes municipais. Assim, a proposta responde ao tema de Inclusão e Letramento Digital com viabilidade operacional, aderência estratégica e potencial de impacto mensurável.
+O diferencial em relação a ações anteriores está na criação de trilhas adaptáveis por nível de proficiência, tutoria orientada a tarefas reais — acesso a serviços públicos, currículo digital e segurança básica — e um modelo padronizado de expansão por meio de EJA, ONGs e redes municipais. Assim, a proposta entrega inclusão e letramento digital com governança, viabilidade operacional e aderência ao planejamento estratégico da empresa.
 
 ### Resultados possíveis, impactos ou benefícios para o Serpro (até 200 palavras)
 A proposta pode gerar benefícios sociais e institucionais em três frentes.

@@ -1,0 +1,38 @@
+PROGRAMA DE STATUP EDUCACIONAL PARA MENTORIA E TUTORIA EM “CIDADANIA DIGITAL E TECNOLOGIA APLICADA”.
+1. Visão Geral da Proposta
+Esta proposta apresenta a criação de um programa contínuo de mentoria e tutoria em tecnologia, utilizando no primeiro momento para início imediato, os cursos já existentes na plataforma Cidadão Digital (https://cidadaodigital.serpro.gov.br/), voltado principalmente para jovens e adultos conforme iniciativa inspiradora já existente em outra regional da empresa (ver notícia em: https://www.serpro.gov.br/menu/noticias/noticias-2025/seja-tec). 
+Quero ser esse agente de transformação e o objetivo principal dessa iniciativa é aproveitar a estrutura atual disponível (cursos, laboratórios e conhecimento individual) para compartilhar o conhecimento em tecnologia e evoluir o projeto SEJA-TEC citado acima para a cidade de Brasília. Esta inciativa também está aderente à agenda de responsabilidade social publicada recentemente no nosso noticiário corporativo: https://www.serpro.gov.br/menu/noticias/noticias-2026/serpro-institucionaliza-agenda-de-responsabilidade-social, conectando o conhecimento técnico disponível internamente com demandas reais da sociedade, promovendo inclusão digital, qualificação profissional básica e fortalecimento da imagem institucional da empresa como agente de transformação social.
+O programa será desenhado de forma simples, escalável e replicável, permitindo a entrada gradual de novos tutores, novas turmas e novas instituições parceiras (ONGs, OSCIPs, escolas e projetos sociais).
+2. Objetivos do Programa
+2.1 Objetivo Geral
+Promover inclusão e cidadania digital para jovens e adultos, customizando trilhas baseadas nos cursos já existentes, formatar um plano de ação para ofertas de turmas presenciais para ter o contato corpo a corpo com os alunos, permitindo uma mentoria e tutoria mais próxima, com encontros semanais de 2 a 3 horas nesse início. Em um segundo momento, vou criar novos cursos na medida que o projeto for evoluindo.
+2.2 Objetivos Específicos
+ Introduzir noções básicas de uso de computador, navegação segura na internet, produtividade digital e empregabilidade. Desenvolver habilidades essenciais para o mercado de trabalho (comunicação digital, organização, colaboração online, uso de ferramentas de escritório). Orientar os participantes sobre boas práticas de segurança da informação, privacidade e cidadania digital. Criar um núcleo interno de colaboradores mentores, fortalecendo cultura de compartilhamento de conhecimento. Estreitar laços com organizações sociais, escolas e iniciativas de EJA, contribuindo para o impacto social do negócio. 
+3. Público-Alvo
+3.1 Externo
+ Jovens e adultos (incluindo público EJA) com baixa ou média familiaridade com tecnologia, colaboradores terceirizados e seus familiares. Pessoas em busca de recolocação profissional ou primeiro emprego, que necessitam de competências digitais básicas. Participantes indicados por ONGs, OSCIPs, escolas públicas, associações comunitárias e outras instituições sociais parceiras. 
+
+3.2 Interno
+ Motivar colaboradores interessados em atuar como mentores, tutores ou apoiadores do programa. Equipes técnicas com experiência em TI, dados, nuvem, geotecnologias, desenvolvimento de software e áreas correlatas. Colaboradores de áreas não técnicas com interesse em voluntariado e desenvolvimento de habilidades de comunicação, facilitação e liderança. 
+4. Formato Geral do Programa
+4.1 Estrutura das Turmas
+ Tamanho sugerido: 10 a 20 alunos por turma. Duração sugerida: ciclos de 4 a 8 encontros (semanais ou quinzenais), com 2 a 3 horas por encontro. Modalidade: preferencialmente presencial (laboratório da empresa ou espaço da ONG), com possibilidade de encontros híbridos dependendo da realidade da instituição parceira. 
+4.2 Metodologia
+ Uso dos cursos da plataforma Cidadão Digital como conteúdo base. Aulas combinando: Breve exposição conceitual (contextualização pelo mentor). Navegação guiada pelos conteúdos online. Atividades práticas de laboratório (exercícios, pequenos projetos, simulações). Espaço para dúvidas individuais e orientação personalizada. Foco em exemplos reais do dia a dia (ex.: criar currículo, usar e-mail, editar documentos, pesquisar com segurança, organização de arquivos, uso de planilhas simples). 
+4.3 Papel do Mentor/Tutor
+ Mediar o conteúdo do curso, traduzindo conceitos técnicos para linguagem acessível. Acompanhar o progresso dos alunos na plataforma. Propor e conduzir atividades práticas. Estimular participação, colaboração entre alunos e autoaprendizagem. Coletar feedback dos participantes e registrar aprendizados de cada turma. Fazer uma seleção de “potenciais talentos” para seguir com “mentoria individual social” por um tempo até o atingimento de metas combinadas.
+5. Trilhas Propostas (Exemplos Iniciais)
+As trilhas podem ser adaptadas conforme o perfil dos alunos e das instituições parceiras. Seguem sugestões de trilhas iniciais:
+5.1 Trilha “Primeiros Passos no Mundo Digital”
+ Uso básico do computador e sistema operacional. Conceitos de internet, navegadores e busca segura. Criação e uso de e-mail. Noções de cidadania digital, privacidade e segurança básica. 
+5.2 Trilha “Produtividade e Empregabilidade Digital”
+ Uso de editores de texto e planilhas (criação de currículo, controle simples de finanças). Organização de arquivos e documentos digitais. Comunicação profissional em ambiente digital (e-mail, chat, reuniões online). Dicas para processos seletivos, entrevistas e postura profissional online. 
+5.3 Trilha “Introdução à Tecnologia e Novas Tendências”
+ Visão geral sobre o que é nuvem, dados, automação e inteligência artificial em linguagem acessível. Exemplos práticos de como essas tecnologias estão presentes no cotidiano. Apresentação de possibilidades de carreira em tecnologia e áreas relacionadas. Atividade inspiracional: “Meu plano de desenvolvimento digital” (cada aluno define próximos passos de estudo). 
+6. Benefícios para a Empresa
+6.1 Impacto Social e Reputação
+ Reforço da imagem da empresa como organização que investe em inclusão e cidadania digital. Contribuição concreta para redução da desigualdade de acesso ao conhecimento tecnológico. Possibilidade de divulgação institucional em relatórios de sustentabilidade ou ações de responsabilidade social. 
+6.2 Desenvolvimento de Colaboradores
+ Fortalecimento de competências comportamentais (soft skills) dos mentores: Comunicação clara e didática. Empatia e escuta ativa. Liderança e facilitação de grupos. Oportunidade de desenvolvimento pessoal, propósito e engajamento com a cultura da empresa. 
+6.3 Conexão com a Estratégia da Organização
+ Alinhamento com temas de inovação, transformação digital e formação de talentos. Possibilidade futura de identificar participantes com interesse em estágios, programas de formação ou parcerias educacionais. 

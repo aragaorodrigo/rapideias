@@ -1,0 +1,267 @@
+1 APRESENTAÇÃO
+O Serpro, sob a condução da Superintendência de Educação – SUPED, com o 
+objetivo de compartilhar e implementar ideias inovadoras na área de tecnologia e 
+de gestão que propiciem o avanço do conhecimento nos diversos segmentos de 
+serviços públicos aplicáveis ao âmbito de atuação da Empresa promove a 3ª 
+edição do Prêmio Serpro de Inovação.
+O Prêmio Serpro é um congresso educacional com foco em inovação e que tem a 
+finalidade de estimular a pesquisa sobre tecnologia e gestão, seus problemas, 
+desafios e perspectivas, reconhecendo trabalhos de qualidade com aplicabilidade 
+no Serpro e que tragam resultados para empresa, governo e sociedade. O 
+congresso premiará propostas de trabalho de empregados que apresentem ideias 
+ou soluções inovadoras nas temáticas definidas para o evento.
+2 CONCURSO DE TRABALHOS
+2.1 Das condições para participação
+2.1.1 A participação por meio da inscrição de um ou mais trabalhos está aberta a:
+a) empregados(as) do quadro interno e do quadro externo do Serpro;
+b) funcionários(as) de órgãos públicos, desde que em coautoria com 
+empregado(a) do Serpro; 
+c) integrantes da comunidade acadêmica, desde que em coautoria com 
+empregado(a) do Serpro; 
+d) empregados(as) aposentados(as), desde que em coautoria com 
+empregado(a) do Serpro;
+e) estagiários(as) do Serpro, desde que em coautoria com empregado(a) 
+do Serpro.
+2.1.2 O(A) apresentador(a) do trabalho, obrigatoriamente, deverá ser o(a) 
+autor(a), empregado(a) do quadro interno ou externo do Serpro.
+2.1.3 Ficam impedidos de participar os integrantes da organização do Prêmio 
+Serpro de Inovação e das comissões designadas.
+2.1.4 Ficam impedidos de participar os(as) empregados(as) com contrato de 
+trabalho suspenso.
+2.1.5 A participação se limita ao número máximo de 3 (três) trabalhos por pessoa 
+seja na condição de autor ou coautor.
+2.1.6 Não há limite para a quantidade de coautores em um trabalho submetido 
+observado o item 2.1.5.
+serpro.gov.br
+2.1.7 Não serão aceitos trabalhos que tenham sido submetidos em edições 
+anteriores do Prêmio Serpro de Inovação.
+2.2 Dos trabalhos
+2.2.1 O Congresso premiará trabalhos, inéditos ou não, que apresentem ideias ou 
+soluções inovadoras para o Serpro que colaborem para o avanço do 
+conhecimento nos variados segmentos de serviços públicos aplicáveis ao âmbito 
+de atuação da Empresa, bem como das boas práticas de gestão.
+2.2.2 Considera-se trabalho não inédito aquele que já tenha sido apresentado em 
+concurso, congresso ou publicado sob a forma de artigo, monografia, dissertação 
+ou tese, desde que não implantado na Empresa e não tenha sido objeto de 
+cessão de direitos autorais.
+2.2.3 Soluções já implantadas ou em processo de implantação, ou seja, aquelas 
+que se encontrem em qualquer estágio compreendido entre a aprovação do 
+respectivo projeto e o seu encerramento, não serão consideradas para efeito de 
+submissão ao Prêmio Serpro de Inovação.
+2.3 Dos temas do Congresso
+Os temas do 3º Prêmio Serpro de Inovação estão detalhados abaixo:
+Tema 1: NOVAS TECNOLOGIAS E SEUS IMPACTOS
+Este tema contempla soluções baseadas em tecnologias emergentes e 
+habilitadoras que fortaleçam a infraestrutura digital, ampliem a inteligência 
+institucional e assegurem a soberania tecnológica do Estado brasileiro. 
+Relaciona-se diretamente às prioridades dos Planos de Tecnologia e de Negócio, 
+especialmente no que se refere à nuvem de governo, inteligência artificial, 
+infraestrutura resiliente, interoperabilidade, segurança cibernética e inovação 
+tecnológica estruturante.
+Os assuntos relacionados a esse tema são:
+1. Inteligência Artificial e IA Generativa 
+Aplicações de IA voltadas à automação inteligente, apoio à decisão, análise 
+preditiva, atendimento ao cidadão, uso de modelos de linguagem (LLMs), 
+governança algorítmica e IA responsável. Devem demonstrar aplicabilidade 
+operacional e aderência à ética, segurança e proteção de dados. 
+2. Nuvem de Governo e Infraestrutura Digital Soberana 
+Soluções que fortaleçam a estratégia de Nuvem de Governo, arquitetura híbrida 
+serpro.gov.br
+ou multicloud, eficiência operacional, escalabilidade e redução de custos, 
+aplicações de tecnologias habilitadoras para soberania digital, com foco em 
+soberania e resiliência. Modernização de data centers, considerando o impacto 
+ambiental da adoção de novos data centers.
+3. Engenharia de Dados, Analytics e Plataformas Inteligentes 
+Modelos para integração, interoperabilidade e valorização estratégica de dados 
+institucionais, incluindo data lakes, data mesh, analytics avançado e 
+observabilidade de serviços. 
+4. Segurança Cibernética e Proteção de Infraestruturas Críticas 
+Propostas que ampliem a maturidade em segurança da informação, proteção 
+contra-ataques, continuidade de negócios e conformidade regulatória. Soluções 
+para proteção de infraestruturas críticas. Considerar o fator humano.
+5. Antifraude Cibernética e Gestão de Identidades Digitais
+Soluções focadas na detecção, prevenção e resposta a atividades fraudulentas em 
+ecossistemas digitais governamentais. Este tópico abrange o uso de tecnologias para 
+garantir que o cidadão ou ente público seja, de fato, quem afirma ser, protegendo o 
+patrimônio público e a fidedignidade dos processos administrativos. 
+6. Tecnologias Habilitadoras Emergentes 
+Computação quântica, blockchain, tokenização, IoT, 5G, edge computing, 
+Robótica e Automação de Processos (RPA), quando demonstrada sua viabilidade 
+técnica e aderência às prioridades estratégicas do Serpro. Estudo prospectivo de 
+tecnologias emergentes de incorporação no macroambiente do Serpro em médio 
+e longo prazos. Parcerias para transferências tecnológicas.
+Tema 2: TRANSFORMAÇÃO DIGITAL PARA CLIENTES E CIDADÃOS
+Abrange soluções voltadas à melhoria da experiência digital, ampliação da 
+inclusão, acessibilidade e eficiência na prestação de serviços públicos. Alinha-se 
+às diretrizes de centralidade no cliente, ampliação de mercado, fortalecimento do 
+portfólio de soluções digitais e geração de valor público. 
+Os assuntos relacionados a esse tema são:
+1. Experiência do Usuário (UX) e Serviços Digitais Inclusivos 
+Ampliação da acessibilidade e da usabilidade nas soluções digitais desenvolvidas 
+pelo Serpro. Design centrado no usuário. Uso de inteligência artificial em 
+processo de UX (descoberta, pesquisa com usuários, prototipação etc.). 
+serpro.gov.br
+Experiências de uso de ferramentas e metodologias. Métricas de resultado e de 
+impacto de UX nas soluções desenvolvidas pelo Serpro, social e de negócio.
+2. Plataformas Digitais para Estados e Municípios 
+Modelos escaláveis de transformação digital, especialmente para pequenas e 
+médias administrações públicas. 
+3. GovTech e Ecossistemas de Inovação Pública 
+Estratégias de articulação com parceiros, startups e clientes para ampliação de 
+soluções digitais e geração de novos negócios. Sandbox regulatório. Ampliação 
+da interação com atores dos ecossistemas de inovação pública – disseminação de 
+conhecimento. Transparência das ações do Serpro nos ambientes de inovação.
+4. Proteção de Dados e Privacidade do Cidadão 
+Aplicações que fortaleçam conformidade com LGPD, governança de dados e 
+confiança digital. Uso ético da visualização de dados pessoais, interna e externa. 
+Adequação dos sistemas internos à LGPD. Privacidade do cidadão nas 
+plataformas de governo.
+5. Inclusão e Letramento Digital 
+Soluções que ampliem o acesso e reduzam desigualdades digitais no uso de 
+serviços públicos. Letramento digital para o cidadão, especialmente em 
+municípios.
+Tema 3: SOLUÇÕES ESTRATÉGICAS, DE SUSTENTABILIDADE E DE GESTÃO NO 
+SERPRO
+Contempla inovações organizacionais, modelos de governança e práticas de 
+gestão que fortaleçam a sustentabilidade econômica, social e ambiental da 
+empresa, bem como sua eficiência operacional. 
+Relaciona-se ao Plano Estratégico e ao Plano de Negócio, especialmente quanto à 
+governança da inovação, sustentabilidade, eficiência organizacional e geração de 
+receitas.
+Os assuntos relacionados a esse tema são:
+1. Governança da Inovação e Gestão do Portfólio 
+Modelos estruturados de priorização, acompanhamento e mensuração de 
+resultados de iniciativas inovadoras. Mecanismos de divulgação interna da 
+alocação de investimentos em PD&I. Compartilhamento da monitoração do 
+desenvolvimento de projetos inovadores patrocinados pelo Serpro.
+serpro.gov.br
+2. Gestão Estratégica da Informação e do Conhecimento 
+Soluções que valorizem produção acadêmica, comunidades de prática, 
+inteligência organizacional e gestão de ativos informacionais. Soluções digitais de 
+gestão do conhecimento no Serpro. 
+3. Modelos Sustentáveis de Negócio 
+Novas estratégias de monetização, expansão de mercado e geração de receitas 
+alinhadas ao posicionamento institucional. 
+4. ESG e Sustentabilidade Organizacional 
+Propostas voltadas à redução de impactos ambientais, responsabilidade social e 
+fortalecimento da governança corporativa. Tendências econômicas e financeiras 
+de médio e longo prazo.
+5. Eficiência Operacional e Transformação Organizacional 
+Automação, simplificação de processos, melhoria da produtividade e redução de 
+custos internos.
+2.3.1 Outros aspectos relacionados aos Temas 1, 2, e 3 poderão ser tratados 
+mediante consulta prévia à coordenação do Prêmio Serpro pelo e-mail 
+premioserpro@serpro.gov.br.
+3 INSCRIÇÃO E SELEÇÃO DE PROPOSTAS E DE TRABALHOS
+3.1 O(A) participante deverá se inscrever no Portal do Prêmio Serpro de Inovação 
+(https://premioserpro.serpro) e submeter sua proposta de trabalho.
+3.2 A proposta será analisada pela Comissão de Qualificação de Propostas que 
+verificará se o conteúdo está adequado ao tema, se existe aplicabilidade e se 
+está no formato de proposta disponibilizado no portal do Prêmio Serpro de 
+Inovação.
+3.3 Os(As) participantes que tiverem sua proposta aprovada poderão submeter o 
+arquivo do trabalho no Portal conforme orientações deste Regulamento.
+3.4 O envio do trabalho está condicionado à aprovação da proposta 
+correspondente.
+3.5 Os trabalhos inscritos serão avaliados pela Comissão de Seleção de 
+Trabalhos, uma para cada tema, composta por 3 (três) jurados, sendo, 
+obrigatoriamente, um deles externo e dois internos.
+3.6 Dentre os trabalhos aceitos em cada um dos temas, serão selecionados no 
+serpro.gov.br
+máximo 3 (três) para apresentação, correspondendo àqueles com maior 
+pontuação atribuída pela Comissão de Seleção de Trabalhos de cada tema.
+4 AVALIAÇÃO DOS TRABALHOS
+4.1 Dos critérios para avaliação
+Serão utilizados os seguintes critérios para avaliação:
+a) Inovação
+Os trabalhos serão avaliados sob o aspecto da novidade, isto é, o grau de 
+inclusão de novos elementos a um tema conhecido ou a utilização de uma nova 
+abordagem a um elemento ou tema já conhecido.
+b) Aplicabilidade ao Serpro
+Os trabalhos serão avaliados sob o aspecto da aplicabilidade ao Serpro. Este 
+critério de avaliação será pontuado apenas pelos jurados internos.
+c) Qualidade Técnica
+Os trabalhos serão avaliados sob os seguintes aspectos formais:
+i.
+consistência com a proposta previamente recebida e aprovada;
+ii. estruturação formal de tópicos relacionados à introdução, ao 
+desenvolvimento e à conclusão;
+iii. emprego da norma culta; e
+iv. cumprimento aos aspectos formais (uso das normas ABNT), apresentação 
+gráfica e organização.
+4.2 Da pontuação na seleção
+4.2.1 A nota final do trabalho será a média ponderada das pontuações atribuídas, 
+segundo critérios e pesos, com duas casas decimais.
+4.2.2 Os critérios serão pontuados de zero a cinco, com uma casa decimal. Os 
+pesos serão diferenciados, já que o critério “Aplicabilidade ao Serpro” não será 
+avaliado pelos jurados externos.
+4.2.3 Os critérios de avaliação com os respectivos pesos serão pontuados da 
+seguinte forma:
+serpro.gov.br
+Critérios
+Peso para o jurado interno
+Peso para o jurado 
+externo
+Inovação
+5
+7
+Aplicabilidade ao SERPRO
+3
+Não avalia
+Qualidade Técnica
+2
+3
+ Nota do jurado interno  = (Nota do critério “Inovação” x 5 + Nota do 
+critério “Aplicabilidade ao Serpro” x 3 + Nota do critério “Qualidade 
+Técnica” x 2) / 10
+ Nota do jurado externo  = (Nota do critério “Inovação” x 7 + Nota do critério 
+“Qualidade Técnica” x 3) / 10
+ Nota final do Trabalho  = (Nota do jurado interno 1 + Nota do jurado interno 
+2 + Nota do Jurado externo) / 3.
+4.3 Da nota mínima para premiação
+Para serem apresentados e premiados, os trabalhos devem alcançar a nota 
+mínima de 3,0. Caso não haja trabalho com a pontuação mínima para 
+determinado tema, esse não será contemplado.
+4.4 Dos critérios para desempate
+Como critério de desempate consideram-se as maiores notas obtidas nos critérios 
+“Inovação”, “Aplicabilidade ao Serpro” e “Qualidade do Trabalho”, nessa ordem.
+4.5 Da desclassificação no congresso
+4.5.1 A proposta será desclassificada se o conteúdo não estiver adequado aos 
+temas e ao formato e não for aplicável ao Serpro e ainda se apresentar qualquer 
+tipo de identificação do(a) autor(a) ou coautor(a).
+4.5.2 O trabalho será desclassificado caso apresente qualquer tipo de 
+identificação do(a) autor(a) ou do(a) coautor(a) no corpo do texto, no nome do 
+arquivo, em anexos ou nas referências, ou esteja em desacordo com o formato 
+exigido e com este regulamento.
+4.5.3 O trabalho será desclassificado se apresentar assunto diferente do descrito 
+na proposta.
+serpro.gov.br
+5 PRÊMIOS
+5.1 Serão apresentados e premiados os trabalhos que obtiverem as três melhores 
+notas em cada tema.
+5.2 Serão pagos para cada tema, em espécie, os seguintes prêmios:
+ Primeiro Lugar – R$ 25.000,00 (vinte e cinco mil reais)
+ Segundo Lugar – R$ 20.000,00 (vinte mil reais)
+ Terceiro Lugar – R$ 15.000,00 (quinze mil reais)
+5.3 Os valores dos prêmios estão sujeitos à incidência de impostos por ocasião do 
+pagamento, nos termos da legislação vigente.
+5.4 O autor(a) e cada um(a) dos(as) coautores(as) receberão peças 
+personalizadas do congresso e diplomas alusivos à premiação.
+5.5 As apresentações dos trabalhos premiados dos 3 (três) temas e a solenidade 
+de premiação serão realizadas na Regional Fortaleza no período de 25 a 28 de 
+setembro de 2026
+5.6 As despesas de viagem para apresentação do trabalho no Prêmio Serpro de 
+Inovação serão pagas pelo Serpro apenas para o(a) empregado(a) que 
+apresentará o trabalho.
+6 FORMATO DA PROPOSTA E DO TRABALHO
+6.1 Do formato da proposta
+6.1.1 A proposta deve ser postada com os seguintes elementos:
+ Identificação do tema e do assunto conforme relação especificada nesse 
+Regulamento;
+ Objetivo geral e, se houver, os específicos;
+ Justificativa que explique por que razão a ideia é considerada inovadora e 
+aplicável ao Serpro;
+ Resultados possíveis ou impactos ou benefícios que podem ser gerados;
+ Palavras-chave pertinentes.
+6.1.2 O modelo da Proposta está disponível no Portal do Prêmio Serpro de 
+Inovação (https://premioserpro.serpro).

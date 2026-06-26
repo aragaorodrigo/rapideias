@@ -16,17 +16,9 @@
 
 **Assunto:** Inclusão e Letramento Digital.
 
-**Autor (versão original):** [NOME COMPLETO DOS AUTORES]
+**Autor:** [NOME RESTRITO PARA AVALIAÇÃO ANÔNIMA]
 
-**Autor (versão anônima):** [NOME RESTRITO PARA AVALIAÇÃO ANÔNIMA]
-
-**Minicurrículo (versão original):** [CURRÍCULO DOS AUTORES - ....]
-
-**Minicurrículo (versão anônima):** [INFORMAÇÃO SUPRIMIDA PARA AVALIAÇÃO ANÔNIMA]
-
-### Nota de submissão
-
-Para conformidade com o regulamento, recomenda-se manter duas versões do trabalho: uma versão original identificada e uma versão anônima sem nomes, currículo, metadados pessoais e referências que permitam identificar autoria.
+**Minicurrículo:** [CURRÍCULO RESTRITO PARA AVALIAÇÃO ANÔNIMA]
 
 ## Resumo
 
@@ -47,6 +39,7 @@ Ao combinar trilhas de aprendizado, mediação presencial e voluntariado técnic
 7. Indicadores de acompanhamento
 8. Conclusões e resultados esperados
 9. Referências
+10. Controle de submissão (anônima e identificada)
 
 ## 1. Introdução
 
@@ -72,21 +65,23 @@ O planejamento estratégico do Serpro prevê metas relacionadas à inclusão dig
 
 A aderência regulatória também é reforçada pelo diálogo com a Lei Geral de Proteção de Dados, uma vez que o trabalho não apenas ensina o uso de ferramentas, mas também promove comportamentos digitais mais seguros e responsáveis (BRASIL, 2018).
 
+### 2.3. Convergência com o Projeto 914BRZ5067 (Anatel/UNESCO)
+
+Esta proposta apresenta convergência direta com o Projeto 914BRZ5067, cooperação técnica internacional firmada em 2024 entre Anatel e UNESCO, que vem estruturando frentes de conectividade significativa, inserção digital e suporte à governança tecnológica (ANATEL, 2025a; ANATEL, 2025b).
+
+No plano prático, o programa de mentoria funciona como vetor de execução territorial para diretrizes de competências digitais e segurança online, com foco em públicos vulneráveis. Aderem especialmente ao projeto as seguintes frentes de oportunidade:
+
+- **Chamadas e mapeamentos de práticas:** alta aderência para posicionamento institucional e formação de portfólio público de boas práticas.
+- **Sinergia com facilitadores regionais:** alta aderência para uso das trilhas e metodologia em eventos, oficinas e ações locais.
+- **Visibilidade e novas parcerias:** alta aderência para apresentação do caso SEJA-TEC e da estratégia de escala em fóruns técnicos.
+
+Para fins de governança e credibilidade perante a banca, esta convergência deve ser tratada como oportunidade potencial condicionada a editais, critérios de seleção e disponibilidade de chamadas públicas, e não como fonte de recurso garantida.
+
 **Ganhos esperados por dimensão:**
 
 - **Social:** autonomia do cidadão, ampliação de acesso a serviços digitais e melhoria da empregabilidade.
 - **Organizacional:** desenvolvimento de comunicação didática, empatia, liderança e escuta ativa entre os mentores.
 - **Institucional:** fortalecimento da reputação do Serpro como agente de transformação e produtor de valor público.
-
-### 2.3. Aderência ao Projeto 914BRZ5067 (Anatel/UNESCO)
-
-A proposta apresenta aderência estratégica ao contexto do Projeto 914BRZ5067, no qual a cooperação Anatel/UNESCO enfatiza competências digitais, segurança online e inclusão de públicos vulneráveis. Nesse arranjo, o programa de mentoria funciona como vetor de execução territorial, com capacidade de converter diretrizes amplas em trilhas formativas aplicáveis na ponta.
-
-No plano de expansão, há três oportunidades de posicionamento institucional:
-
-- inscrição do programa em chamadas de mapeamento nacional de práticas de letramento digital;
-- articulação com facilitadores regionais para disseminação metodológica em diferentes territórios;
-- participação em eventos e fóruns temáticos como caso de inovação pública replicável.
 
 ## 3. Desenvolvimento do modelo proposto
 
@@ -115,24 +110,17 @@ As trilhas devem ser modulares e adaptáveis conforme o perfil do público. A es
 
 Foco em alfabetização digital, com conteúdos sobre uso do computador, navegação segura, e-mail, contas digitais e proteção de dados.
 
-Conteúdos mínimos recomendados:
+Conteúdos obrigatórios de segurança e cidadania digital nesta trilha:
 
-- identificação de golpes digitais e práticas de fraude mais comuns;
-- noções introdutórias de proteção de dados pessoais e privacidade (LGPD);
-- leitura crítica de desinformação e verificação de fontes;
-- segurança online de crianças e dependentes no ambiente doméstico;
-- prevenção ao cyberbullying e canais de apoio.
+- prevenção a golpes digitais, phishing e engenharia social;
+- identificação de desinformação e fake news;
+- prevenção ao cyberbullying e violência digital;
+- proteção de dados pessoais e direitos do titular previstos na LGPD;
+- navegação segura para crianças e adolescentes no contexto familiar.
 
 #### Trilha 2: Produtividade e empregabilidade
 
 Foco em currículos, organização digital, planilhas básicas, comunicação profissional e preparação para rotinas de estudo e trabalho.
-
-Conteúdos complementares de segurança e cidadania digital:
-
-- práticas de segurança em contas de trabalho (senhas fortes e dupla verificação);
-- comportamento ético em ambientes colaborativos e reuniões online;
-- organização segura de documentos pessoais e profissionais em nuvem;
-- prevenção de vazamento de dados em processos seletivos e interações laborais.
 
 #### Trilha 3: Futuro Tech
 
@@ -144,11 +132,15 @@ O mentor não atua apenas como instrutor, mas como mediador pedagógico e agente
 
 Esse papel também gera valor interno para o Serpro, pois desenvolve competências como comunicação clara, empatia, paciência, liderança de grupos e escuta ativa.
 
-### 3.5. Delimitação metodológica e de parcerias
+### 3.5. Consolidação da redação acadêmica
 
-As referências a ITS Brasil, Somai EdTech e outras instituições são utilizadas neste trabalho como benchmark metodológico e fonte de boas práticas. Não configuram, por si, vínculo formal, compromisso orçamentário ou transferência de propriedade intelectual.
+A versão final adota linguagem analítica, com ênfase em conceitos verificáveis, evitando formulações promocionais ou metafóricas. Essa escolha fortalece a precisão argumentativa e a aderência às normas ABNT de citação e referência (ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2023; ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2018).
 
-A execução do programa, sua governança e seus ativos técnico-pedagógicos permanecem centralizados na estrutura institucional do Serpro, com eventual cooperação externa condicionada a instrumentos formais específicos.
+### 3.6. Referenciais metodológicos, benchmarks e propriedade intelectual
+
+As referências a ITS Brasil, Somai EdTech e outras iniciativas externas são estritamente metodológicas, com função de benchmark técnico-pedagógico. Não há, nesta proposta, compromisso orçamentário, vínculo contratual ou cessão de propriedade intelectual com essas instituições.
+
+A execução, a governança e a propriedade intelectual do programa permanecem centralizadas na expertise técnica interna do Serpro, com eventuais cooperações externas condicionadas a instrumentos formais específicos.
 
 ## 4. Público-alvo e impacto social
 
@@ -162,17 +154,14 @@ Essa segmentação é importante porque permite calibrar linguagem, carga de con
 
 ## 5. Prova de conceito e viabilidade técnica
 
-A proposta ganha consistência ao se apoiar na experiência SEJA-TEC, citada como prova de conceito na regional Belo Horizonte. O projeto, segundo a comunicação institucional do Serpro, reuniu 25 formandos entre estudantes da EJA e trabalhadores terceirizados, articulando alfabetização e inclusão digital em um mesmo percurso formativo (SERPRO, 2025). Esse caso demonstra a viabilidade operacional do modelo e reforça a premissa de que grupos com pouca familiaridade digital conseguem avançar quando há trilha estruturada e acompanhamento adequado.
+A proposta ganha consistência ao se apoiar na experiência SEJA-TEC, citada como prova de conceito na regional Belo Horizonte. Segundo a comunicação institucional do Serpro, o ciclo formativo reuniu 25 formandos (8 da turma SEJA-TEC e 17 de turmas parceiras da EJA), incluindo trabalhadores terceirizados, articulando alfabetização e inclusão digital em um mesmo percurso (SERPRO, 2025). O caso reforça a viabilidade operacional de trilhas com mediação ativa.
 
-Para amadurecimento da versão de submissão, recomenda-se explicitar no corpo do texto:
+Elementos consolidados para a leitura da PoC:
 
-- número de participantes da PoC;
-- perfil do público atendido;
-- resultados observáveis por trilha;
-- limites e aprendizados da experiência;
-- possibilidade de replicação em outras regionais.
-
-A viabilidade econômica é favorecida pelo uso de infraestrutura já existente, pela adesão voluntária e pela existência prévia da plataforma Cidadão Digital.
+- **Escala inicial validada:** 25 concluintes em ambiente de parceria educacional local.
+- **Perfil aderente ao alvo social:** estudantes da EJA e público trabalhador com histórico de exclusão educacional e digital.
+- **Viabilidade financeira:** aproveitamento de infraestrutura existente, conteúdo já disponível e mobilização voluntária técnica.
+- **Potencial de replicação:** modelo passível de adaptação para regionais com suporte de governança e indicadores.
 
 ## 6. Roadmap de implantação
 
@@ -181,6 +170,22 @@ A viabilidade econômica é favorecida pelo uso de infraestrutura já existente,
 | Mês 1 | Planejamento e estruturação | Definição da governança, seleção de mentores, revisão das trilhas e mapeamento de parceiros locais. |
 | Mês 2 | Execução do piloto | Início das turmas, aplicação da metodologia e coleta de feedback com mentores e participantes. |
 | Mês 3 | Mensuração e escala | Análise dos resultados, ajustes do modelo e preparação de guia de replicação para outras regionais. |
+
+### 6.1. Estratégia de alcance externo e financiamento complementar
+
+Para ampliar alcance e sustentabilidade, recomenda-se executar um plano de articulação externa em paralelo ao piloto:
+
+- inscrever o programa em chamadas e mapeamentos aderentes à agenda de competências digitais;
+- preparar portfólio técnico de submissão com metodologia, indicadores e evidências da PoC;
+- posicionar as trilhas como conteúdo de referência para facilitadores regionais em eventos e oficinas;
+- estruturar narrativa de escala (SEJA-TEC para modelo multirregional) para painéis técnicos e fóruns de conectividade;
+- manter trilha documental de resultados para captação de apoios institucionais não orçamentários.
+
+Premissas de prudência para captação externa:
+
+- tratar toda oportunidade como condicionada a edital e processo seletivo público;
+- evitar, no planejamento financeiro interno, dependência de recursos externos ainda não contratados;
+- manter plano de execução autossuficiente com ativos internos, usando parcerias como alavanca de escala e visibilidade.
 
 ## 7. Indicadores de acompanhamento
 
@@ -194,13 +199,11 @@ Para que a proposta tenha aderência ao regulamento e gere evidência de impacto
 - número de replicações ou novas turmas;
 - contribuição para o KRE de inclusão digital.
 
-Indicadores recomendados para conexão com ESG e Agenda 2030:
+Indicadores recomendados para conexão com ESG e ODS:
 
-- percentual de concluintes vinculados a públicos vulneráveis (equidade de acesso);
-- índice de progressão de autonomia digital por trilha (pré e pós-ciclo);
-- indicador de contribuição ao ODS 4 (educação de qualidade), por meio de permanência e conclusão;
-- indicador de contribuição ao ODS 10 (redução das desigualdades), por alcance de grupos historicamente subatendidos;
-- indicador de segurança digital cidadã, com aferição de aprendizagem sobre proteção de dados e prevenção a riscos online.
+- **ODS 4 (Educação de Qualidade):** percentual de participantes com progressão de proficiência digital entre diagnóstico inicial e avaliação final.
+- **ODS 10 (Redução das Desigualdades):** percentual de concluintes pertencentes a grupos prioritários (EJA, baixa renda, terceirizados e familiares).
+- **Segurança digital cidadã:** percentual de participantes que demonstram práticas de prevenção a fraudes e proteção de dados após o ciclo formativo.
 
 Esses indicadores permitem associar esforço formativo e resultado social, tornando a execução comparável entre turmas, regionais e ciclos de mentoria.
 
@@ -210,9 +213,9 @@ O programa proposto apresenta boa aderência estratégica porque usa ativos já 
 
 Como resultado, espera-se ampliar autonomia dos participantes, fortalecer competências dos mentores e consolidar o Serpro como agente de transformação social com impacto mensurável. Em termos de inovação pública, a proposta é forte porque desloca o foco de iniciativas pontuais para um modelo sustentável, escalável e mais próximo da realidade dos usuários finais. A proposta também dialoga com a Agenda 2030 ao reforçar inclusão, educação e redução de desigualdades como componentes indissociáveis de desenvolvimento sustentável (ORGANIZAÇÃO DAS NAÇÕES UNIDAS, 2015).
 
-## 9. Referências
+No âmbito de articulações externas, a estratégia recomendada combina ambição institucional com prudência executiva: utilizar referências de cooperação internacional como validação técnica e reputacional, preservando a autonomia operacional do programa e a sustentabilidade do plano mesmo na ausência de financiamento externo.
 
-AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES; ORGANIZAÇÃO DAS NAÇÕES UNIDAS PARA A EDUCAÇÃO, A CIÊNCIA E A CULTURA. Projeto 914BRZ5067: cooperação técnica para inclusão digital e uso responsável de tecnologias no Brasil. Brasília, DF: Anatel; UNESCO, [s.d.]. Disponível em: https://www.gov.br/anatel/pt-br. Acesso em: 26 jun. 2026.
+## 9. Referências
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 6023: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
 
@@ -220,9 +223,11 @@ ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 10520: informação e docu
 
 BRASIL. Lei n. 13.709, de 14 de agosto de 2018. Lei Geral de Proteção de Dados Pessoais (LGPD). Diário Oficial da União: seção 1, Brasília, DF, 15 ago. 2018.
 
-INSTITUTO DE TECNOLOGIA SOCIAL (ITS BRASIL). Metodologia do emprego apoiado. São Paulo: ITS Brasil, 2024. Disponível em: https://itsbrasil.org.br/areas-de-atuacao-metodologia-do-emprego-apoiado/. Acesso em: 26 jun. 2026.
+AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES (ANATEL). Anatel e UNESCO selecionam consultor para projeto de cooperação em Inteligência Artificial (IA). Brasília: Anatel, 2025a. Disponível em: https://www.gov.br/anatel/pt-br/assuntos/noticias/anatel-e-unesco-selecionam-consultores-para-projeto-de-cooperacao-em-inteligencia-artificial-ia. Acesso em: 26 jun. 2026.
 
-INSTITUTO GABRIEL GASTAL (IGG). Promoção e democratização do acesso à educação digital. Brasília: IGG Brasil, 2026. Disponível em: https://www.institutogabrielgastal.org.br/. Acesso em: 26 jun. 2026.
+AGÊNCIA NACIONAL DE TELECOMUNICAÇÕES (ANATEL). Anatel e UNESCO selecionam consultores/facilitadores para projeto em Conectividade Significativa destinado à inserção digital de idosos. Brasília: Anatel, 2025b. Disponível em: https://www.gov.br/anatel/pt-br/assuntos/noticias/anatel-e-unesco-selecionam-consultores-facilitadores-para-projeto-de-cooperacao-em-conectividade-significativa-sobre-insercao-digital-de-idosos. Acesso em: 26 jun. 2026.
+
+INSTITUTO DE TECNOLOGIA SOCIAL (ITS BRASIL). Metodologia do emprego apoiado. São Paulo: ITS Brasil, 2024. Disponível em: https://itsbrasil.org.br/areas-de-atuacao-metodologia-do-emprego-apoiado/. Acesso em: 26 jun. 2026.
 
 ORGANIZAÇÃO DAS NAÇÕES UNIDAS. Transformando nosso mundo: a Agenda 2030 para o Desenvolvimento Sustentável. Nova York: ONU, 2015. Disponível em: https://brasil.un.org/pt-br/sdgs. Acesso em: 26 jun. 2026.
 
@@ -234,9 +239,15 @@ SERPRO. Serpro institucionaliza agenda de responsabilidade social. Brasília: No
 
 SOMAI EDTECH. Pensamento crítico e abordagem pedagógica na educação tecnológica. 2024. Disponível em: https://www.somai.com.br/about.php. Acesso em: 26 jun. 2026.
 
-## Observações para melhorias e refinamento
+## 10. Controle de submissão (anônima e identificada)
 
-- avaliar se colocamos os incentivos e programa de tutoria já institucionalizados no serpro
-- revisar a densidade das citações no corpo do texto
-- avaliar e ajustar o nível de formalidade para a versão de submissão anônima e não anônima (consolidação da redação acadêmica) 
-    __versão final do trabalho adota linguagem analítica, com ênfase em conceitos verificáveis, sem recorrer a formulações promocionais ou metafóricas. Temos que ter atenção na aderência às normas de citação e referência previstas na ABNT NBR 10520 e na ABNT NBR 6023 (ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2023; ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2018)__
+Para conformidade com o regulamento do prêmio, recomenda-se manter duas versões finais do arquivo:
+
+- **Versão anônima:** manter os campos [NOME RESTRITO PARA AVALIAÇÃO ANÔNIMA] e [CURRÍCULO RESTRITO PARA AVALIAÇÃO ANÔNIMA], sem dados que permitam identificação.
+- **Versão identificada (original):** substituir os campos restritos por nome completo e minicurrículo definitivo.
+
+Checklist mínimo de conformidade:
+
+- remover nomes, iniciais e autoidentificação no corpo do texto da versão anônima;
+- revisar metadados do arquivo antes da submissão;
+- confirmar que anexos e figuras não expõem autoria.

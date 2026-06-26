@@ -22,11 +22,11 @@
 
 ## Resumo
 
-Este trabalho propõe a estruturação de um modelo de mentoria contínua em cidadania digital, desenhado como uma startup educacional interna no Serpro, com apoio em ativos institucionais já existentes. A iniciativa busca reduzir barreiras de acesso, uso e apropriação crítica de serviços digitais por jovens e adultos em situação de vulnerabilidade, incluindo estudantes da Educação de Jovens e Adultos (EJA), colaboradores terceirizados e públicos de comunidades parceiras.
+Este trabalho propõe a estruturação de um modelo de mentoria contínua em cidadania digital, desenhado como uma startup educacional interna no Serpro, com apoio em ativos institucionais já existentes. A iniciativa busca reduzir barreiras de acesso, uso e apropriação crítica de serviços digitais por jovens e adultos em situação de vulnerabilidade, colaboradores terceirizados e públicos de comunidades parceiras.
 
-Ao combinar trilhas de aprendizado, mediação presencial e voluntariado técnico, a proposta amplia a autonomia do cidadão, fortalece a empregabilidade e gera desenvolvimento de competências socioemocionais nos mentores. O modelo é replicável, aderente à agenda ESG e alinhado ao Key Result Expected (KRE) de inclusão digital do Serpro, em consonância com a lógica de tecnologia social e acompanhamento personalizado defendida por iniciativas de inclusão produtiva (ITS BRASIL, 2024; SERPRO, 2026).
+Ao combinar trilhas de aprendizado, mediação presencial e voluntariado técnico, a proposta amplia a autonomia do cidadão, fortalece a empregabilidade e gera desenvolvimento de competências socioemocionais nos mentores. O modelo é replicável, aderente à agenda ESG e alinhado ao Key Result Expected (KRE) de inclusão digital do Serpro, em consonância com a lógica de tecnologia social e acompanhamento personalizado defendida por iniciativas de inclusão ativa e produtiva.
 
-**Palavras-chave:** inclusão e letramento digital; cidadania digital; tecnologia social; mentoria; empregabilidade; transformação digital; voluntariado técnico; impacto social.
+**Palavras-chave:** inclusão e letramento digital; cidadania digital; tecnologia social; mentoria; empregabilidade; vulnerabilidade; transformação digital; voluntariado técnico; impacto social.
 
 ## Sumário preliminar
 
@@ -47,7 +47,7 @@ A transformação digital do Estado brasileiro ampliou a oferta de serviços pú
 
 Nesse contexto, a proposta parte da premissa de que inclusão digital não se limita ao fornecimento de acesso à internet ou à disponibilização de conteúdos autoinstrucionais. Em muitos casos, o principal gargalo está na mediação humana, na tradução pedagógica dos conteúdos e no acompanhamento do processo de aprendizagem. Experiências recentes do próprio Serpro, como o SEJA-TEC em Belo Horizonte, demonstram que a combinação entre tecnologia, mediação e apoio institucional pode gerar resultados concretos em percursos educacionais de jovens e adultos (SERPRO, 2025).
 
-O objetivo deste trabalho é propor um programa contínuo de mentoria em cidadania digital, estruturado sobre três eixos: trilhas de aprendizado, mentoria ativa e replicabilidade institucional. A solução dialoga com a plataforma Serpro Cidadão Digital e com a infraestrutura física das regionais, convertendo ativos subutilizados em um ecossistema de impacto social. Em termos metodológicos, a proposta se ancora na ideia de tecnologia social com acompanhamento personalizado, coerente com práticas de inclusão produtiva já sistematizadas por organizações especializadas (ITS BRASIL, 2024).
+O objetivo deste trabalho é propor um programa contínuo de mentoria em cidadania digital, estruturado sobre três eixos: trilhas de aprendizado, mentoria ativa e replicabilidade institucional. A solução dialoga com a plataforma Serpro Cidadão Digital e com a infraestrutura física das regionais, convertendo ativos subutilizados em um ecossistema de impacto social. Em termos metodológicos, a proposta se ancora na ideia de tecnologia social com acompanhamento personalizado, coerente com práticas de inclusão produtiva já sistematizadas por organizações especializadas (ITS BRASIL, 2024). __avaliar se adicionamos mais referências ou apenas citamos "...como as melhores práticas do mercado" (revisar)__
 
 ## 2. Justificativa e alinhamento estratégico
 
@@ -65,7 +65,7 @@ O planejamento estratégico do Serpro prevê metas relacionadas à inclusão dig
 
 A aderência regulatória também é reforçada pelo diálogo com a Lei Geral de Proteção de Dados, uma vez que o trabalho não apenas ensina o uso de ferramentas, mas também promove comportamentos digitais mais seguros e responsáveis (BRASIL, 2018).
 
-### 2.3. Convergência com o Projeto 914BRZ5067 (Anatel/UNESCO)
+### 2.3. Avaliar a Convergência com o Projeto 914BRZ5067 (Anatel/UNESCO) e se colocamos aqui na proposta (revisar)
 
 Esta proposta apresenta convergência direta com o Projeto 914BRZ5067, cooperação técnica internacional firmada em 2024 entre Anatel e UNESCO, que vem estruturando frentes de conectividade significativa, inserção digital e suporte à governança tecnológica (ANATEL, 2025a; ANATEL, 2025b).
 
@@ -131,16 +131,6 @@ Foco em noções introdutórias de dados, nuvem, inteligência artificial e carr
 O mentor não atua apenas como instrutor, mas como mediador pedagógico e agente de desenvolvimento social. Sua função inclui traduzir conceitos técnicos para linguagem acessível, apoiar a navegação por barreiras práticas e estimular autoconfiança no uso de ferramentas digitais.
 
 Esse papel também gera valor interno para o Serpro, pois desenvolve competências como comunicação clara, empatia, paciência, liderança de grupos e escuta ativa.
-
-### 3.5. Consolidação da redação acadêmica
-
-A versão final adota linguagem analítica, com ênfase em conceitos verificáveis, evitando formulações promocionais ou metafóricas. Essa escolha fortalece a precisão argumentativa e a aderência às normas ABNT de citação e referência (ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2023; ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2018).
-
-### 3.6. Referenciais metodológicos, benchmarks e propriedade intelectual
-
-As referências a ITS Brasil, Somai EdTech e outras iniciativas externas são estritamente metodológicas, com função de benchmark técnico-pedagógico. Não há, nesta proposta, compromisso orçamentário, vínculo contratual ou cessão de propriedade intelectual com essas instituições.
-
-A execução, a governança e a propriedade intelectual do programa permanecem centralizadas na expertise técnica interna do Serpro, com eventuais cooperações externas condicionadas a instrumentos formais específicos.
 
 ## 4. Público-alvo e impacto social
 
@@ -215,7 +205,14 @@ Como resultado, espera-se ampliar autonomia dos participantes, fortalecer compet
 
 No âmbito de articulações externas, a estratégia recomendada combina ambição institucional com prudência executiva: utilizar referências de cooperação internacional como validação técnica e reputacional, preservando a autonomia operacional do programa e a sustentabilidade do plano mesmo na ausência de financiamento externo.
 
-## 9. Referências
+## 9. Referenciais metodológicos, benchmarks e propriedade intelectual
+
+As referências a ITS Brasil, Somai EdTech e outras iniciativas externas são estritamente metodológicas, com função de benchmark técnico-pedagógico. Não há, nesta proposta, compromisso orçamentário, vínculo contratual ou cessão de propriedade intelectual com essas instituições.
+
+A execução, a governança e a propriedade intelectual do programa permanecem centralizadas na expertise técnica interna do Serpro, com eventuais cooperações externas condicionadas a instrumentos formais específicos.
+
+
+## 10. Referências
 
 ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 6023: informação e documentação: referências: elaboração. Rio de Janeiro: ABNT, 2018.
 
@@ -239,7 +236,13 @@ SERPRO. Serpro institucionaliza agenda de responsabilidade social. Brasília: No
 
 SOMAI EDTECH. Pensamento crítico e abordagem pedagógica na educação tecnológica. 2024. Disponível em: https://www.somai.com.br/about.php. Acesso em: 26 jun. 2026.
 
-## 10. Controle de submissão (anônima e identificada)
+
+### Consolidação da redação acadêmica
+
+A versão final adota linguagem analítica, com ênfase em conceitos verificáveis, evitando formulações promocionais ou metafóricas. Essa escolha fortalece a precisão argumentativa e a aderência às normas ABNT de citação e referência (ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2023; ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS, 2018).
+
+
+### Controle de submissão (anônima e identificada)
 
 Para conformidade com o regulamento do prêmio, recomenda-se manter duas versões finais do arquivo:
 

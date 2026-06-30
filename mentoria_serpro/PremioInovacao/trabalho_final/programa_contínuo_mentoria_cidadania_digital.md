@@ -45,15 +45,15 @@ Ao combinar trilhas de aprendizado, mediação presencial e voluntariado técnic
 
 A transformação digital do Estado brasileiro ampliou a oferta de serviços públicos, mas também evidenciou um paradoxo social: a existência de cidadãos que permanecem excluídos por barreiras de acesso, letramento e confiança no uso da tecnologia. Esse cenário afeta tanto a fruição da cidadania quanto a inserção produtiva no mercado de trabalho.
 
-Nesse contexto, a proposta parte da premissa de que inclusão digital não se limita ao fornecimento de acesso à internet ou à disponibilização de conteúdos autoinstrucionais. Em muitos casos, o principal gargalo está na mediação humana, na tradução pedagógica dos conteúdos e no acompanhamento do processo de aprendizagem. Experiências recentes do próprio Serpro, como o SEJA-TEC em Belo Horizonte, demonstram que a combinação entre tecnologia, mediação e apoio institucional pode gerar resultados concretos em percursos educacionais de jovens e adultos (SERPRO, 2025).
+Nesse contexto, a proposta parte da premissa de que inclusão digital não se limita ao fornecimento de acesso à internet ou à disponibilização de conteúdos autoinstrucionais. Em muitos casos, o principal gargalo está na mediação humana, na tradução pedagógica dos conteúdos e no acompanhamento do processo de aprendizagem. Experiências recentes do próprio Serpro, como o SEJA-TEC em Belo Horizonte, demonstram que a combinação entre tecnologia, mediação e apoio institucional pode gerar resultados concretos em percursos educacionais de jovens, adultos e idosos (SERPRO, 2025).
 
-O objetivo deste trabalho é propor um programa contínuo de mentoria em cidadania digital, estruturado sobre três eixos: trilhas de aprendizado, mentoria ativa e replicabilidade institucional. A solução dialoga com a plataforma Serpro Cidadão Digital e com a infraestrutura física das regionais, convertendo ativos subutilizados em um ecossistema de impacto social. Em termos metodológicos, a proposta se ancora na ideia de tecnologia social com acompanhamento personalizado, coerente com práticas de inclusão produtiva já sistematizadas por organizações especializadas (ITS BRASIL, 2024). __avaliar se adicionamos mais referências ou apenas citamos "...como as melhores práticas do mercado" (revisar)__
+O objetivo deste trabalho é propor um programa contínuo de mentoria em cidadania digital, estruturado sobre três eixos: trilhas de aprendizado, mentoria ativa e replicabilidade institucional. A solução dialoga com a plataforma Serpro Cidadão Digital e com a infraestrutura física das regionais, convertendo ativos subutilizados em um ecossistema de impacto social. Em termos metodológicos, a proposta se ancora na ideia de tecnologia social com acompanhamento personalizado, coerente com práticas de inclusão produtiva já sistematizadas por organizações especializadas (ITS BRASIL, 2024; SOMAI EDTECH, 2024; IGG, 2026). __avaliar se adicionamos mais referências ou apenas citamos "...como as melhores práticas do mercado" (revisar)__
 
 ## 2. Justificativa e alinhamento estratégico
 
 ### 2.1. Conexão com a agenda ESG
 
-O programa contribui diretamente para o pilar Social da agenda ESG ao atuar sobre três frentes, em linha com os planos interno e externo de responsabilidade social recentemente institucionalizados pelo Serpro (SERPRO, 2026):
+O programa contribui diretamente para o pilar Social da agenda ESG ao atuar sobre três frentes, alinhado com os planos interno e externo de responsabilidade social recentemente institucionalizados pelo Serpro (SERPRO, 2026):
 
 - Redução de desigualdades por meio da inclusão de públicos historicamente vulnerabilizados.
 - Promoção de uso seguro e responsável da tecnologia, com atenção à privacidade, à segurança da informação e à LGPD.
@@ -61,11 +61,15 @@ O programa contribui diretamente para o pilar Social da agenda ESG ao atuar sobr
 
 ### 2.2. Alinhamento com o KRE e o planejamento estratégico
 
+>> explorar um pouco mais detalhes do KRE ?!?!
+
 O planejamento estratégico do Serpro prevê metas relacionadas à inclusão digital. A proposta fortalece esse indicador ao substituir ações pontuais por uma lógica de continuidade, acompanhamento e resultado observável. Em vez de contabilizar apenas eventos, passa-se a medir evolução de competências, taxa de conclusão, satisfação dos participantes e potencial de replicação.
 
 A aderência regulatória também é reforçada pelo diálogo com a Lei Geral de Proteção de Dados, uma vez que o trabalho não apenas ensina o uso de ferramentas, mas também promove comportamentos digitais mais seguros e responsáveis (BRASIL, 2018).
 
 ### 2.3. Avaliar a Convergência com o Projeto 914BRZ5067 (Anatel/UNESCO) e se colocamos aqui na proposta (revisar)
+
+>> explorar neste capítulo o alinhamento com a metas da ONU e/ou UNESCO (ODS)... avaliar colocar como capítulo anterior
 
 Esta proposta apresenta convergência direta com o Projeto 914BRZ5067, cooperação técnica internacional firmada em 2024 entre Anatel e UNESCO, que vem estruturando frentes de conectividade significativa, inserção digital e suporte à governança tecnológica (ANATEL, 2025a; ANATEL, 2025b).
 
@@ -87,7 +91,7 @@ Para fins de governança e credibilidade perante a banca, esta convergência dev
 
 ### 3.1. Fundamentação e lógica de startup educacional
 
-A proposta adota uma lógica de startup educacional porque essa abordagem favorece validação rápida, ciclo de feedback curto e melhoria contínua. O foco não está em criar um curso extenso e rígido, mas em oferecer um modelo mínimo viável, testável e escalável. Esse desenho é compatível com abordagens contemporâneas de formação em tecnologia social, que articulam mediação, acompanhamento e adaptação progressiva ao perfil do público atendido (ITS BRASIL, 2024; SOMAI EDTECH, 2024).
+A proposta adota uma lógica de startup educacional porque essa abordagem favorece validação rápida, ciclo de feedback curto e melhoria contínua. O foco não está em criar um curso extenso e rígido, mas em oferecer um modelo mínimo viável, testável e escalável. Esse desenho é compatível com abordagens contemporâneas de formação em tecnologia social, que articulam mediação, acompanhamento e adaptação progressiva ao perfil do público atendido (ITS BRASIL, 2024; SOMAI EDTECH, 2024; IGG, 2026).
 
 ### 3.2. Metodologia do programa
 
@@ -120,6 +124,8 @@ Conteúdos obrigatórios de segurança e cidadania digital nesta trilha:
 
 #### Trilha 2: Produtividade e empregabilidade
 
+>> incluir neste capítulo, contexto em diferenciais e soft skills (pró atividade, coragem, empreendedorismo, inovação, pensamento crítico...)
+
 Foco em currículos, organização digital, planilhas básicas, comunicação profissional e preparação para rotinas de estudo e trabalho.
 
 #### Trilha 3: Futuro Tech
@@ -128,11 +134,15 @@ Foco em noções introdutórias de dados, nuvem, inteligência artificial e carr
 
 ### 3.4. Papel do mentor
 
+>> colocar os benefícios e incentivos do serpro para tutoria e também habilidades que o trabalhador pode adquirir
+
 O mentor não atua apenas como instrutor, mas como mediador pedagógico e agente de desenvolvimento social. Sua função inclui traduzir conceitos técnicos para linguagem acessível, apoiar a navegação por barreiras práticas e estimular autoconfiança no uso de ferramentas digitais.
 
 Esse papel também gera valor interno para o Serpro, pois desenvolve competências como comunicação clara, empatia, paciência, liderança de grupos e escuta ativa.
 
 ## 4. Público-alvo e impacto social
+
+>> avaliar colocar os públicos vulneráveis (LGBTQUIA+ e idosos, além dos jovens e adultos)
 
 O público do programa pode ser organizado em três camadas:
 
@@ -157,11 +167,13 @@ Elementos consolidados para a leitura da PoC:
 
 | Fase | Objetivo | Entregas esperadas |
 | --- | --- | --- |
-| Mês 1 | Planejamento e estruturação | Definição da governança, seleção de mentores, revisão das trilhas e mapeamento de parceiros locais. |
-| Mês 2 | Execução do piloto | Início das turmas, aplicação da metodologia e coleta de feedback com mentores e participantes. |
-| Mês 3 | Mensuração e escala | Análise dos resultados, ajustes do modelo e preparação de guia de replicação para outras regionais. |
+| Mês 1 | Planejamento e estruturação | Definição da governança, seleção de mentores, revisão das trilhas e mapeamento de parceiros. |
+| Meses 2 e 3 | Execução do piloto | Início das turmas, aplicação da metodologia e coleta de feedback com mentores e participantes. |
+| Mês 4 | Mensuração e escala | Análise dos resultados, ajustes do modelo e preparação de guia de replicação para outras regionais. |
 
 ### 6.1. Estratégia de alcance externo e financiamento complementar
+
+>> parcerias e contexto texto
 
 Para ampliar alcance e sustentabilidade, recomenda-se executar um plano de articulação externa em paralelo ao piloto:
 
